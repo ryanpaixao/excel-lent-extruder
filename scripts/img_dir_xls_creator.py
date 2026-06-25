@@ -3,7 +3,7 @@ import xlsxwriter
 
 # --- Configuration ---
 image_dir = './image_dir' # Replace with the path to your image directory
-excel_file = '.image_data.xlsx' # The name of the output file
+excel_file = 'image_data.xlsx' # The name of the output file
 valid_extensions = ('.png', '.jpg', '.jpeg', '.bmp')
 
 # Create an Excel workbook and add a worksheet

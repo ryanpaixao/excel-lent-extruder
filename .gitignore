@@ -1,3 +1,9 @@
+# img dir
+/image_dir/
+
+# output file
+image_data.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
